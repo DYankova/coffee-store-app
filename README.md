@@ -1,6 +1,6 @@
 # coffee_store_app
 
-A new Flutter project.
+A Flutter project. Resources : https://learning.oreilly.com/videos/real-world-projects-with/9781789616033 Section 3.
 
 ## Getting Started
 
